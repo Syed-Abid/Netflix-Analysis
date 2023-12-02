@@ -17,18 +17,6 @@ Lights, camera, insights! 🎬 Dive into the fascinating world of Netflix with o
 
 *Insert screenshots or GIFs of your Power BI dashboards here.*
 
-## 📁 Repository Structure
-
-```plaintext
-📦 Netflix-Analysis
- ┣ 📂 Data
- ┃ ┗ 📜 netflix_dataset.csv
- ┣ 📂 Dashboards
- ┃ ┗ 📜 netflix_analysis_dashboard.pbix
- ┣ 📜 LICENSE
- ┣ 📜 README.md
- ┗ 📜 .gitignore
-
 ## 🛠️ Setup and Usage
 
 1. **Clone the repository:** 
@@ -54,7 +42,7 @@ Contributions are welcome! If you have ideas to enhance the analysis or want to 
 
 Have questions or suggestions? Reach out to us:
 
-- **Your Name**
+- **Syed Abid Hassan**
 - **Email:** [abidhassanjaffri31@gmail.com]
 
 Feel free to connect with us. We're excited to hear from you!
