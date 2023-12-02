@@ -1,8 +1,9 @@
 # Netflix Analysis 🍿📊
 
-[![GitHub stars](https://img.shields.io/github/stars/your-username/Netflix-Analysis.svg?style=flat-square)](https://github.com/your-username/Netflix-Analysis/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/your-username/Netflix-Analysis.svg?style=flat-square)](https://github.com/your-username/Netflix-Analysis/network)
-[![GitHub license](https://img.shields.io/github/license/your-username/Netflix-Analysis.svg?style=flat-square)](https://github.com/your-username/Netflix-Analysis/blob/main/LICENSE)
+<div align="center">
+  <img src="https://github.com/Syed-Abid/Netflix-Analysis/blob/main/Netflix%20Logo.png" alt="Netflix Logo">
+</div>
+
 
 Lights, camera, insights! 🎬 Dive into the fascinating world of Netflix with our Netflix Analysis project. We've meticulously analyzed the Netflix dataset using Power BI to bring you engaging visualizations and valuable insights into your favorite streaming platform.
 
