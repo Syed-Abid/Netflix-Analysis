@@ -15,7 +15,10 @@ Lights, camera, insights! 🎬 Dive into the fascinating world of Netflix with o
 
 ## 📈 Dashboard Preview
 
-*Insert screenshots or GIFs of your Power BI dashboards here.*
+<div align="center">
+  <img src="https://github.com/Syed-Abid/Netflix-Analysis/blob/main/Netflix%20Dashboard.png" alt="Netflix Dashboard">
+</div>
+
 
 ## 🛠️ Setup and Usage
 
