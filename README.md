@@ -19,6 +19,14 @@ Lights, camera, insights! 🎬 Dive into the fascinating world of Netflix with o
   <img src="https://github.com/Syed-Abid/Netflix-Analysis/blob/main/Netflix%20Dashboard.png" alt="Netflix Dashboard">
 </div>
 
+## Tools Used
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/Syed-Abid/Product-Performance-Insights/blob/main/sql%20server.png" style="margin-right: 10px;" width="100" />
+  <img src="https://github.com/Syed-Abid/Product-Performance-Insights/blob/main/power%20bi.png" style="margin-right: 10px;" width="100" />
+  <img src="https://github.com/Syed-Abid/Product-Performance-Insights/blob/main/excel.png" width="100" />
+</div>
+
 
 ## 🛠️ Setup and Usage
 
