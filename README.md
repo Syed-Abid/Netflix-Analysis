@@ -19,7 +19,7 @@ Lights, camera, insights! 🎬 Dive into the fascinating world of Netflix with o
   <img src="https://github.com/Syed-Abid/Netflix-Analysis/blob/main/Netflix%20Dashboard.png" alt="Netflix Dashboard">
 </div>
 
-## Tools Used
+## 🧰 Tools Used 
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github.com/Syed-Abid/Product-Performance-Insights/blob/main/sql%20server.png" style="margin-right: 10px;" width="100" />
@@ -27,7 +27,7 @@ Lights, camera, insights! 🎬 Dive into the fascinating world of Netflix with o
   <img src="https://github.com/Syed-Abid/Product-Performance-Insights/blob/main/excel.png" width="100" />
 </div>
 
-## Insights
+## 💡 Insights 
 (For the context, this dataset has info about movies till 2020.)
 -  From 2000-2020, most of the movies/shows were made in year 2018.
 -  United States of America has made the most movies/shows up till 2020 and India is holding the second place.
