@@ -27,6 +27,12 @@ Lights, camera, insights! 🎬 Dive into the fascinating world of Netflix with o
   <img src="https://github.com/Syed-Abid/Product-Performance-Insights/blob/main/excel.png" width="100" />
 </div>
 
+## Insights
+(For the context, this dataset has info about movies till 2020.)
+-  From 2000-2020, most of the movies/shows were made in year 2018.
+-  United States of America has made the most movies/shows up till 2020 and India is holding the second place.
+-  The most famous or popular genre among people is "Dramas". So, making can be more beneficial.
+-  Although, Dramas are quite popular among people, but the most produced entertainment form is "Movies" rather than "TV Shows".
 
 ## 🛠️ Setup and Usage
 
